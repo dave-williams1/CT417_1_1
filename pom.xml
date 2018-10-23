@@ -18,9 +18,9 @@
     </repositories>
     <dependencies>
         <dependency>
-            <groupId>CT417</groupId>
+            <groupId>org.github.dave-wiliams1</groupId>
             <artifactId>CT417_1</artifactId>
-            <version>1.0-SNAPSHOT</version>
+            <version>f266ad3</version>
             <type>jar</type>
         </dependency>
     </dependencies>
