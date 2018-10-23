@@ -11,6 +11,12 @@
 	    <artifactId>CT417_1</artifactId>
 	    <version>f266ad3</version>
 	</dependency>
+        <dependency>
+            <groupId>CT417</groupId>
+            <artifactId>CT417_1</artifactId>
+            <version>1.0-SNAPSHOT</version>
+            <type>jar</type>
+        </dependency>
     </dependencies>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
