@@ -18,7 +18,7 @@
     </repositories>
     <dependencies>
         <dependency>
-            <groupId>org.github.dave-wiliams1</groupId>
+            <groupId>org.github.dave-williams1</groupId>
             <artifactId>CT417_1</artifactId>
             <version>f266ad3</version>
             <type>jar</type>
