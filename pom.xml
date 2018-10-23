@@ -7,9 +7,9 @@
     <packaging>jar</packaging>
     <dependencies>
         <dependency>
-	    <groupId>CT417</groupId>
+	    <groupId>org.github.dave-williams1</groupId>
 	    <artifactId>CT417_1</artifactId>
-	    <version>1.0-SNAPSHOT</version>
+	    <version>f266ad3</version>
 	</dependency>
     </dependencies>
     <properties>
