@@ -20,7 +20,7 @@
         <dependency>
             <groupId>org.github.dave-williams1</groupId>
             <artifactId>CT417_1</artifactId>
-            <version>f266ad3</version>
+            <version>CT417_1-f266ad3</version>
             <type>jar</type>
         </dependency>
         <dependency>
