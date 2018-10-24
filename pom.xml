@@ -18,12 +18,6 @@
     </repositories>
     <dependencies>
         <dependency>
-            <groupId>org.github.dave-williams1</groupId>
-            <artifactId>CT417_1</artifactId>
-            <version>CT417_1-f266ad3</version>
-            <type>jar</type>
-        </dependency>
-        <dependency>
             <groupId>CT417</groupId>
             <artifactId>CT417_1</artifactId>
             <version>1.0-SNAPSHOT</version>
